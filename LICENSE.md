@@ -1,4 +1,4 @@
-# 
+# Official Visual Studio workflow for Mac OS | Updated Visual Studio workflow for PC Windows. Featuring build-cache and automated-testing — optimized for maximum performance on every platform.
 
 
 
